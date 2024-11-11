@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/p2pgames/static/css/main.e01b12cb.css",
-    "main.js": "/p2pgames/static/js/main.e9ee060b.js",
+    "main.js": "/p2pgames/static/js/main.55dd4eae.js",
     "static/js/905.d35a082b.chunk.js": "/p2pgames/static/js/905.d35a082b.chunk.js",
-    "static/js/469.ed5dc91a.chunk.js": "/p2pgames/static/js/469.ed5dc91a.chunk.js",
+    "static/js/469.1cd5b7dd.chunk.js": "/p2pgames/static/js/469.1cd5b7dd.chunk.js",
     "static/js/10.baa3cdb7.chunk.js": "/p2pgames/static/js/10.baa3cdb7.chunk.js",
     "index.html": "/p2pgames/index.html",
     "main.e01b12cb.css.map": "/p2pgames/static/css/main.e01b12cb.css.map",
-    "main.e9ee060b.js.map": "/p2pgames/static/js/main.e9ee060b.js.map",
+    "main.55dd4eae.js.map": "/p2pgames/static/js/main.55dd4eae.js.map",
     "905.d35a082b.chunk.js.map": "/p2pgames/static/js/905.d35a082b.chunk.js.map",
-    "469.ed5dc91a.chunk.js.map": "/p2pgames/static/js/469.ed5dc91a.chunk.js.map",
+    "469.1cd5b7dd.chunk.js.map": "/p2pgames/static/js/469.1cd5b7dd.chunk.js.map",
     "10.baa3cdb7.chunk.js.map": "/p2pgames/static/js/10.baa3cdb7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e01b12cb.css",
-    "static/js/main.e9ee060b.js"
+    "static/js/main.55dd4eae.js"
   ]
 }
